@@ -1,6 +1,6 @@
 # skills section data
 
-label: Ability
+label: 능력
 id : cs
-aspects: GitHub, Motivation, HTML5, ReactJS, Machine Learing, Python, Sleeping
-percentage: 100, 35, 65, 80, 70, 90, 50
+aspects: Java, SQL, JS, Spring, Linux, Hadoop,Hadoop Echosystem, AWS, Python
+percentage: 85, 75, 80, 75, 75, 55, 50, 60, 60 
