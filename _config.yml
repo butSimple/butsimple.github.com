@@ -1,9 +1,9 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: but simple
+title: 간단하지만 명료한 블로그
 description: 하지만 간단하게
-keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
+keywords: hadoop,aws,java,html,js,빅데이터,아마존,자바,하둡
 baseurl:  / # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://butsimple.github.com/  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
@@ -67,4 +67,3 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-
