@@ -3,7 +3,7 @@ layout: post
 title:  "AWS에서 하둡(Hadoop) 설치하기 - 1"
 date:   2019-09-09
 desc: "AWS에서 하둡(Hadoop) 설치하기"
-keywords: "hadoop,ssh,aws,분산환경,distributed,hdfs,하둡,아마존,클라우드"
+keywords: "hadoop,ssh,aws,분산환경,distributed,hdfs,하둡,아마존,클라우드,aws에 하둡 설치하기,aws hadoop,aws 하둡,hdfs"
 categories: [Hadoop]
 tags: [hadoop,aws,distributed,HDFS,하둡,아마존]
 icon: icon-html
